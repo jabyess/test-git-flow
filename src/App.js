@@ -10,6 +10,7 @@ function App() {
         Something goes here!!!!!
 
         I forgot something else
+        ERIN IS AMAZING!!!!!!!!!!!!!!
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
